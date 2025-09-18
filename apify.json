@@ -1,0 +1,7 @@
+{
+  "name": "jobhunter-pro",
+  "version": "0.1",
+  "description": "AI-Powered Multi-Platform Job Search",
+  "dockerfile": "Dockerfile",
+  "buildTag": "latest"
+}
