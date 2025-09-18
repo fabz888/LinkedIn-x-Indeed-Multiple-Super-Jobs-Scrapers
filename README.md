@@ -10,6 +10,3 @@ AI-Powered Multi-Platform Job Search application built with Flask and React.
 - Export results to CSV/JSON
 - Dark/light mode toggle
 
-## Deployment on Apify
-
-This application is configured for deployment on the Apify platform.
